@@ -2,7 +2,7 @@
 
 - 😌 My name is *Salomão Candeiro*.
 
-- 😄 Pronouns: *Ele*, *Dele*.
+- 😄 Pronouns: *He*, *His*.
 
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/scandeiro).
 
