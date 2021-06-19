@@ -1,4 +1,4 @@
-### Hey! Welcome to my profile 👋
+### About me 👋
 
 - 😌 My name is *Salomão Candeiro*.
 
@@ -17,3 +17,7 @@
 <!-- - 💬 Ask me about ... -->
 
 - ⚡ Fun fact: They call me Solimões, remembering that country singer from the duo *Rio Negro* & *Solimões* 🤠
+
+### About my stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scandeiro&show_icons=true&locale=en" alt="ehri" /></p>
