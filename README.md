@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/scandeiro).
 
-- 🔭 I'm currently working at *Accenture* (Brazil) as main job, but I'm also working on some projects with my friends and working on some lab projects at *Reactivee® Labs* (Brazil).
+- 🔭 I'm currently working at *Accenture®* (Brazil) as main job, but I'm also working on some projects with my friends and working on some lab projects at *Reactivee® Labs* (Brazil).
 
 - 🌱 I’m currently learning *Project Management*, *Business Architecture*, *Solution Architecture*, *Software Architecture* and I also studying to *Cloud Vendors Certifications*.
 
