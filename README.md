@@ -1,4 +1,4 @@
-### About me
+### About myself
 
 - 😌 My name is *Salomão Candeiro*.
 
