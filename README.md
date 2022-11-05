@@ -16,4 +16,4 @@
 
 ### About my stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scandeiro&show_icons=true&locale=en" alt="ehri" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=scandeiro" />
