@@ -6,7 +6,7 @@
       <img align="center" src="https://user-images.githubusercontent.com/6067306/200113724-d956808b-5ba2-4a0e-9786-559984ddeb06.gif" width="150" />
     </td>
     <td align="left" width="95%">
-      My name is Salomão Candeiro, my pronouns are he/his, I currently live in Brazil and you could reach me at my <a href="https://linkedin.com/in/scandeiro"               target="blank">LinkedIn</a>, <a href="https://www.instagram.com/salomao.candeiro" target="blank">Instagram</a> or <a href="mailto:s4lomao@live.com"                     target="blank">Email</a>.
+      My name is Salomão Candeiro, my pronouns are he/his, I currently live in Brazil and you could reach me using my contacts available on my profile.
     </td>
   </tr>
   <tr>
