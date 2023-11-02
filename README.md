@@ -14,7 +14,7 @@
       <img align="center" src="https://user-images.githubusercontent.com/6067306/200111808-9c3d4831-dc96-4b92-b6aa-ca4c6c8069d0.gif" width="150" />
     </td>
     <td align="left" width="95%">
-      As co-founder at Reactivee, I'm currently working on some experimental and strategic activities at Reactivee Labs.
+      As co-founder at Reactivee, I'm currently working on some experimental and strategic activities related to technology and marketing, at Reactivee.
     </td>
   </tr>
   <tr>
