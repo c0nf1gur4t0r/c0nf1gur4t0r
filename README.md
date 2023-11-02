@@ -48,12 +48,12 @@
   <tr>
     <td>
       <a href="https://github.com/c0nf1gur4t0r/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=scandeiro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"           alt="Salomão Candeiro's GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=c0nf1gur4t0r&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salomão Candeiro's GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/c0nf1gur4t0r/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scandeiro&layout=compact&theme=buefy&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0nf1gur4t0r&layout=compact&theme=buefy&hide_border=true" />
       </a>
     </td>
   </tr>
